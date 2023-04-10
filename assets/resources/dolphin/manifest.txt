@@ -104,7 +104,7 @@ Min butthurt: 0
 Max butthurt: 8
 Min level: 2
 Max level: 30
-Weight: 3
+Weight: 9
 
 Name: L2_Soldering_128x64
 Min butthurt: 0
